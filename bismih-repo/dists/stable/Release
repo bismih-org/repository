@@ -1,0 +1,24 @@
+Origin: Bismih
+Label: Bismih Deb
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: amd64 arm64 arm7
+Components: main
+Description: An example software repository
+Date: Wed, 23 Oct 2024 18:14:14 +0000
+MD5Sum:
+ 68bc08e14ea861efed5ec880eec01477 536 dists/stable/main/binary-amd64/Packages
+ 4ee811e814805e2f29ad668775fdf252 395 dists/stable/main/binary-amd64/Packages.gz
+ 79f5978ccb7481bac8ffb0204024e769 375 dists/stable/Release
+ 060d5fbfcb2936b5e0bddb0d3a5d07f6 403640 pool/main/h/holy-quran/holy-quran_1.6.1_all.deb
+SHA1:
+ a720826bee18d39875a3d59ccb500438e3072edd 536 dists/stable/main/binary-amd64/Packages
+ f0ee73f62b00b24525ba3b43319f0084611d4c40 395 dists/stable/main/binary-amd64/Packages.gz
+ c05fdd28e861b36ba1ea6a3a4fc95f2efceeb7e9 704 dists/stable/Release
+ 2424d0bf82ad76dd751e287d5ae33917a4389c96 403640 pool/main/h/holy-quran/holy-quran_1.6.1_all.deb
+SHA256:
+ eee72f004b117f70af643542bd48e5b66fe82355d62dfd92ff0d3e1ef2a6e482 536 dists/stable/main/binary-amd64/Packages
+ 064c25c25f260dbdf9027fb238df2dfe4ebac1e088be5b3b0fef6217f04f115f 395 dists/stable/main/binary-amd64/Packages.gz
+ 7c73eb680669fa0ab89d610808ee6b4a94a734daf1c73c14851be35f0305ce4a 1099 dists/stable/Release
+ 9fafb620d296acfae6ddd85b19d4ddbed0f85a89c2c149a88e05b041f9160d5c 403640 pool/main/h/holy-quran/holy-quran_1.6.1_all.deb

@@ -1,0 +1,44 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Bismih
+Label: Bismih Deb
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: amd64 arm64 arm7
+Components: main
+Description: An example software repository
+Date: Wed, 23 Oct 2024 18:14:14 +0000
+MD5Sum:
+ 68bc08e14ea861efed5ec880eec01477 536 dists/stable/main/binary-amd64/Packages
+ 4ee811e814805e2f29ad668775fdf252 395 dists/stable/main/binary-amd64/Packages.gz
+ 79f5978ccb7481bac8ffb0204024e769 375 dists/stable/Release
+ 060d5fbfcb2936b5e0bddb0d3a5d07f6 403640 pool/main/h/holy-quran/holy-quran_1.6.1_all.deb
+SHA1:
+ a720826bee18d39875a3d59ccb500438e3072edd 536 dists/stable/main/binary-amd64/Packages
+ f0ee73f62b00b24525ba3b43319f0084611d4c40 395 dists/stable/main/binary-amd64/Packages.gz
+ c05fdd28e861b36ba1ea6a3a4fc95f2efceeb7e9 704 dists/stable/Release
+ 2424d0bf82ad76dd751e287d5ae33917a4389c96 403640 pool/main/h/holy-quran/holy-quran_1.6.1_all.deb
+SHA256:
+ eee72f004b117f70af643542bd48e5b66fe82355d62dfd92ff0d3e1ef2a6e482 536 dists/stable/main/binary-amd64/Packages
+ 064c25c25f260dbdf9027fb238df2dfe4ebac1e088be5b3b0fef6217f04f115f 395 dists/stable/main/binary-amd64/Packages.gz
+ 7c73eb680669fa0ab89d610808ee6b4a94a734daf1c73c14851be35f0305ce4a 1099 dists/stable/Release
+ 9fafb620d296acfae6ddd85b19d4ddbed0f85a89c2c149a88e05b041f9160d5c 403640 pool/main/h/holy-quran/holy-quran_1.6.1_all.deb
+-----BEGIN PGP SIGNATURE-----
+
+iQJPBAEBCgA5FiEENacnMyX6AxhP7TiugB8/v8AcTskFAmcZQ44bHGhhbGFrbXVo
+YW1tZXQxNDVAZ21haWwuY29tAAoJEIAfP7/AHE7J/7YP/i7kV1v4g8L96wce/kGO
+AUfaVDIKOjBjlTLl3akChIF5It1Hy6hAWnkVySkBYnZZi+ZcLBsCDNfCIvNH+VQi
+iXE4xZPtT7HI7XzkYVG46jaOYw52ZfOvLuHCG5DfJmZBZX4RrBOXHlHcYYOc4Xmi
+Fb+NXP2wCoeT51ZQH2ZEpJSrpPl2qNqejOpHay17FThMfVdr2GTp8vysVt7TL5f1
+abNsl+/2wd8BTsbrDAJw+KzOQH175ILBhv8MCVlb+Gx6VnCMoRU2V3LEmMoeJxUz
+hKAAg+iOAFGXJwWeXwXPumu74Q7Vy+YXdU2HK9AfE0mQbIXDrmglXATwuRjPgWpD
+vlpjiWwzzL8ZZSN8Hl1IR7AOkizGNc7hrgPJYJTCTOiBG28WK75PLvGQykQlQSdX
+RLcWPnEr67yAs0LwncCee5Qdvzcgeopi9uFSc0Kel//2pjqDj1peaDdr+bQMKGmL
+SS/uJgdaBdDuxsFDPWMGL1N9lBNTlu2yo5jBUCJW2D3W5agB7mtig90KEr2gYrob
+cF33nQbL1fsC1gbrrjlEB6ZMaaGu580J08ZBfVOEbsFEcwRxcOX6XHjkn6kQhiCG
+sYOlBTf/kDxkqNpf4+Skp2yU8P4BZWJ86CsAmZKBIxBddGbVwJ0b7bjB4rSH8AWs
+7cUcKq0xRo9JncMjjX2NPrhv
+=UNwU
+-----END PGP SIGNATURE-----
