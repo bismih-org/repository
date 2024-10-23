@@ -9,36 +9,45 @@ Version: 1.0
 Architectures: amd64 arm64 arm7
 Components: main
 Description: An example software repository
-Date: Wed, 23 Oct 2024 18:14:14 +0000
+Date: Wed, 23 Oct 2024 20:33:08 +0000
 MD5Sum:
- 68bc08e14ea861efed5ec880eec01477 536 dists/stable/main/binary-amd64/Packages
- 4ee811e814805e2f29ad668775fdf252 395 dists/stable/main/binary-amd64/Packages.gz
- 79f5978ccb7481bac8ffb0204024e769 375 dists/stable/Release
+ 92e02e5367db2ba05b101363d39ac830 1331 dists/stable/main/binary-amd64/Packages
+ 24197114e8f4cd328904f2770a5651e5 685 dists/stable/main/binary-amd64/Packages.gz
+ 03700d1353752cb1416d6f25e2ff7a97 2231 dists/stable/InRelease
+ 2c2d619e482ff6610dc0f1734aa171d5 438 dists/stable/Release
+ 06dce5d019210916aa79e84253c9fd86 870 dists/stable/Release.gpg
+ 260893286d10a8b7033016f46cd538e9 144388 pool/main/p/pardus_android_emulator/pardus-android-emulator_1.3_all.deb
  060d5fbfcb2936b5e0bddb0d3a5d07f6 403640 pool/main/h/holy-quran/holy-quran_1.6.1_all.deb
 SHA1:
- a720826bee18d39875a3d59ccb500438e3072edd 536 dists/stable/main/binary-amd64/Packages
- f0ee73f62b00b24525ba3b43319f0084611d4c40 395 dists/stable/main/binary-amd64/Packages.gz
- c05fdd28e861b36ba1ea6a3a4fc95f2efceeb7e9 704 dists/stable/Release
+ ce76054440f76b6c431297ad146cfe59e7a97367 1331 dists/stable/main/binary-amd64/Packages
+ e5e49e2a2ec6405b00d9a2cb3f7829fabde9ffd8 685 dists/stable/main/binary-amd64/Packages.gz
+ f37de3e32355d67d58c71d19f7882f73f17ce35d 2231 dists/stable/InRelease
+ fe41ad21352ab460088bd2ebf67cc0ae41fb81fa 1014 dists/stable/Release
+ a60fea5aeb120c5f0fe3936f677561bde132c344 870 dists/stable/Release.gpg
+ b9bcc33d41e98947c84405fc78ec0a8242929108 144388 pool/main/p/pardus_android_emulator/pardus-android-emulator_1.3_all.deb
  2424d0bf82ad76dd751e287d5ae33917a4389c96 403640 pool/main/h/holy-quran/holy-quran_1.6.1_all.deb
 SHA256:
- eee72f004b117f70af643542bd48e5b66fe82355d62dfd92ff0d3e1ef2a6e482 536 dists/stable/main/binary-amd64/Packages
- 064c25c25f260dbdf9027fb238df2dfe4ebac1e088be5b3b0fef6217f04f115f 395 dists/stable/main/binary-amd64/Packages.gz
- 7c73eb680669fa0ab89d610808ee6b4a94a734daf1c73c14851be35f0305ce4a 1099 dists/stable/Release
+ f5274fdb97a8d15d7b6048a392f67a32b6815ffc8efa4e19c82f146b59a366bc 1331 dists/stable/main/binary-amd64/Packages
+ abddecf083c6bfa8c393dcbfd5d7fdcaf3cb9eaaf4d5a594d822658064a5ddc4 685 dists/stable/main/binary-amd64/Packages.gz
+ 472ab3a3a5978d9f0dad1e24e0d5e6661143f7d42b20951f513458af8c1eedf8 2231 dists/stable/InRelease
+ 260b1c2de02dc4171826542074a582b59a467b387bcc16512e1449a664da615f 1697 dists/stable/Release
+ 8c2b4638917880aedbf04173b182b3bf45deb4983cf7a96e30ba5b1ff0add121 870 dists/stable/Release.gpg
+ 136e7d49fb0e8e0ffb0d91d6f0f846bdf573c360b2a4b27e6cc5c1916004bf5a 144388 pool/main/p/pardus_android_emulator/pardus-android-emulator_1.3_all.deb
  9fafb620d296acfae6ddd85b19d4ddbed0f85a89c2c149a88e05b041f9160d5c 403640 pool/main/h/holy-quran/holy-quran_1.6.1_all.deb
 -----BEGIN PGP SIGNATURE-----
 
-iQJPBAEBCgA5FiEENacnMyX6AxhP7TiugB8/v8AcTskFAmcZQ44bHGhhbGFrbXVo
-YW1tZXQxNDVAZ21haWwuY29tAAoJEIAfP7/AHE7J/7YP/i7kV1v4g8L96wce/kGO
-AUfaVDIKOjBjlTLl3akChIF5It1Hy6hAWnkVySkBYnZZi+ZcLBsCDNfCIvNH+VQi
-iXE4xZPtT7HI7XzkYVG46jaOYw52ZfOvLuHCG5DfJmZBZX4RrBOXHlHcYYOc4Xmi
-Fb+NXP2wCoeT51ZQH2ZEpJSrpPl2qNqejOpHay17FThMfVdr2GTp8vysVt7TL5f1
-abNsl+/2wd8BTsbrDAJw+KzOQH175ILBhv8MCVlb+Gx6VnCMoRU2V3LEmMoeJxUz
-hKAAg+iOAFGXJwWeXwXPumu74Q7Vy+YXdU2HK9AfE0mQbIXDrmglXATwuRjPgWpD
-vlpjiWwzzL8ZZSN8Hl1IR7AOkizGNc7hrgPJYJTCTOiBG28WK75PLvGQykQlQSdX
-RLcWPnEr67yAs0LwncCee5Qdvzcgeopi9uFSc0Kel//2pjqDj1peaDdr+bQMKGmL
-SS/uJgdaBdDuxsFDPWMGL1N9lBNTlu2yo5jBUCJW2D3W5agB7mtig90KEr2gYrob
-cF33nQbL1fsC1gbrrjlEB6ZMaaGu580J08ZBfVOEbsFEcwRxcOX6XHjkn6kQhiCG
-sYOlBTf/kDxkqNpf4+Skp2yU8P4BZWJ86CsAmZKBIxBddGbVwJ0b7bjB4rSH8AWs
-7cUcKq0xRo9JncMjjX2NPrhv
-=UNwU
+iQJPBAEBCgA5FiEENacnMyX6AxhP7TiugB8/v8AcTskFAmcZXYkbHGhhbGFrbXVo
+YW1tZXQxNDVAZ21haWwuY29tAAoJEIAfP7/AHE7Jl9IP/icNkU9z6XR45k3mmCaI
+OP61L1XePj4nJ2js9hVp0sRReqV3i3j6qvlaQ8kfBhcTNDTftQE6pO3HquQkhvDA
+kvICcDcCALggsbj40wWLK2WtKbU96f6MP8d7MKyt3hQSmXDIOP3o9D+PDXEkmHFX
+qh6oRMJUsDAi6MEFRUuUsQ9oIqUrp1H/RsUHLEcDDc2HNcz9XBDWpZ0l/HvIxwzF
+XYqMrTlhrmObdi9XGkobKN9w7cqc94t5+kIU3ObFJC1wJuOwpoSuE0BbcvWGzggn
+9ymDZwV3OWjNMrrm965uei5gyalgQawjmudVO494n6cQylNO7mn0l1SL+vKQ8+8U
+lkN5QW6MD6k+FqNs4/dZScA/wywUIq2fO+LyDkPGWfPlWUJPOKdVq0fKZjkFoMWc
+Aq7lSRdqSFX0LNRo0sM7vrBRv62hlbKttUgbn2F3R5sIVaW8mHGjQo3Pydqz9DX4
+EKK/a5loW8TCyjgs5asXU2XA9a2u4HPuKi/LxQZBEQUL2HGS3nkAT/xXwXSdNsMW
+JL9aogEe1DxpotLUk6WFhHIpJNIBg97USg3jEoRsTfF4/touOGqbchFCGnZq6k8Z
+dTJdlPHVkfLhcQEGwmIMVVmmoOCMzVeInNK7qIRFWwANPTNYmg2hwyP84N+lG6WJ
+a3Vy1bQKmxaovdKAc5KmmAnl
+=srvh
 -----END PGP SIGNATURE-----

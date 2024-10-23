@@ -14,3 +14,24 @@ Priority: optional
 Homepage: https://github.com/halak0013/Kuran-I_Kerim_app
 Description: It is Holy Quran app.
 
+Package: pardus-android-emulator
+Version: 1.3
+Architecture: all
+Maintainer: Muhammet Halak <halakmuhammet145@gmail.com>
+Installed-Size: 415
+Depends: python3-aiohttp, python3-bs4, python3-gi, python3:any, gir1.2-ayatanaappindicator3-0.1, gir1.2-glib-2.0, gir1.2-gtk-3.0
+Filename: pool/main/p/pardus_android_emulator/pardus-android-emulator_1.3_all.deb
+Size: 144388
+MD5sum: 260893286d10a8b7033016f46cd538e9
+SHA1: b9bcc33d41e98947c84405fc78ec0a8242929108
+SHA256: 136e7d49fb0e8e0ffb0d91d6f0f846bdf573c360b2a4b27e6cc5c1916004bf5a
+Section: x11
+Priority: optional
+Homepage: https://github.com/halak0013/pardus_android_emulator
+Description: Pardus Android Emulator.
+ Generate an Android Emulator
+ Edit it,
+ Delete it,
+ Chose its sdk
+ with google or google and playstore or without google and playstore
+
