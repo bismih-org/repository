@@ -1,7 +1,0 @@
-%echo Generating an bismih PGP key
-Key-Type: RSA
-Key-Length: 4096
-Name-Real: bismih
-Name-Email: halakmuhammet145@gmail.com
-Expire-Date: 0
-%commit

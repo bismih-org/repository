@@ -1,0 +1,5 @@
+Component: main
+Origin: https://bismih-org.github.io/repository/repo
+Label: apt repository
+Architecture: amd64
+Description: Bismih package repository for Debian/Ubuntu

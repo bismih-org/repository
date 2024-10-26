@@ -1,0 +1,29 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: https://bismih-org.github.io/repository/repo
+Label: apt repository
+Codename: fethan
+Date: Sat, 26 Oct 2024 20:55:50 UTC
+Architectures: amd64
+Components: main
+Description: Bismih package repository for Debian/Ubuntu
+MD5Sum:
+ b9d6141cfe36ac45e9ae6ed23a7bfa17 536 main/binary-amd64/Packages
+ eff7e1ca9c723f07f92fd66f4e073392 396 main/binary-amd64/Packages.gz
+ c3e654de97f9bc295151520664eb284b 168 main/binary-amd64/Release
+SHA1:
+ 82477db72d66802d42ed9cddca5c9122ade06c50 536 main/binary-amd64/Packages
+ 8ed8231a55730884a07ceaaca3c2f20f0587564e 396 main/binary-amd64/Packages.gz
+ d3fc06d64df5f2f0a3cdf73e4c6646efa812c4d5 168 main/binary-amd64/Release
+SHA256:
+ a26de9e8ef0216a776e6b820b4a63f3424a2ad24e91521700b604fe9254b3509 536 main/binary-amd64/Packages
+ 0a5f0e865f11b72f0e7b44872493ad2e6afd77781ea23324b0ebfdc78da4ab5b 396 main/binary-amd64/Packages.gz
+ 3ea6bc7c878dad74865f8bef3de95a5eca36eda93b5de958aaf244b6384ca271 168 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQTrfCmZsaenHjS5SeYJFA+i59f3dQUCZx1XVgAKCRAJFA+i59f3
+dYh+AQDJqfu9Jku5s3lXy1tIDxQu0hyNKXiusE/v7Ry3w3OkAgD/XHlwL448Ukwt
+V5G97krpsxG+FzpYT2H3W/I0XaeMVgg=
+=32o1
+-----END PGP SIGNATURE-----

@@ -1,0 +1,8 @@
+Origin: https://bismih-org.github.io/repository/repo
+Label: apt repository
+Codename: fethan
+Architectures: amd64 
+Components: main
+Description: Bismih package repository for Debian/Ubuntu
+SignWith: 09140FA2E7D7F775
+Pull: fethan
