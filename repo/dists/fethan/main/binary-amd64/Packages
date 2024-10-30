@@ -60,6 +60,26 @@ Description: Pardus Android Emulator.
  Chose its sdk
  with google or google and playstore or without google and playstore
 
+Package: touchegg
+Version: 2.0.17
+Architecture: amd64
+Maintainer: José Expósito <jose.exposito89@gmail.com>
+Installed-Size: 419
+Depends: libc6 (>= 2.34), libcairo2 (>= 1.2.4), libgcc-s1 (>= 3.0), libglib2.0-0 (>= 2.68.0), libgtk-3-0 (>= 3.19.12), libinput10 (>= 0.21.0), libpugixml1v5 (>= 1.4), libstdc++6 (>= 11), libudev1 (>= 183), libx11-6, libxi6 (>= 2:1.2.99.4), libxrandr2 (>= 2:1.2.99.2), libxtst6
+Homepage: https://github.com/JoseExposito/touchegg
+Priority: optional
+Section: misc
+Filename: pool/main/t/touchegg/touchegg_2.0.17_amd64.deb
+Size: 129164
+SHA256: ef1873155eafefedbbc9a6911ff34c57511c49b43cbb37f5c6f8b795a04a0ecc
+SHA1: a5784f9d064adcb06b1cfce31dad06cfa2de1862
+MD5sum: 88b183b22bc39e184f77c5e2b5af4351
+Description: Multi-touch gesture recognizer
+ Touchégg is an app that runs in the background and transform the gestures you
+ make in your touchpad into visible actions in your desktop.
+ For example, you can swipe up with 3 fingers to maximize a window or swipe left
+ with 4 finger to switch to the next desktop.
+
 Package: zen-browser
 Source: zen-browser
 Maintainer: Muhammet Halak <halakmuhammet145@gmail.com>
