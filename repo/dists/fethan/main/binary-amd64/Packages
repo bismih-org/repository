@@ -14,6 +14,31 @@ SHA1: 2424d0bf82ad76dd751e287d5ae33917a4389c96
 MD5sum: 060d5fbfcb2936b5e0bddb0d3a5d07f6
 Description: It is Holy Quran app.
 
+Package: libreoffice-style-yaru
+Source: libreoffice
+Version: 4:24.8.2-0ubuntu1
+Architecture: all
+Bugs: mailto:libreoffice@lists.launchpad.net
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 49132
+Recommends: libreoffice-common
+Enhances: libreoffice-core
+Provides: libreoffice-style
+Homepage: http://www.libreoffice.org
+Priority: optional
+Section: editors
+Filename: pool/main/libr/libreoffice/libreoffice-style-yaru_24.8.2-0ubuntu1_all.deb
+Size: 10909150
+SHA256: b02d7417199d284ade453fab42952d0fbd944e2182d26a24a4bfb88b204c656b
+SHA1: 9761a51b0b3d45de8b6ea40fc19943b0bb16419f
+MD5sum: d51c334ae0b7261fb9bcf7aa509ed023
+Description: office productivity suite -- Yaru symbol style
+ LibreOffice is a full-featured office productivity suite that provides
+ a near drop-in replacement for Microsoft(R) Office.
+ .
+ This package contains the "yaru" symbol style.
+Original-Maintainer: Debian LibreOffice Maintainers <debian-openoffice@lists.debian.org>
+
 Package: pardus-android-emulator
 Version: 1.3
 Architecture: all
@@ -34,4 +59,20 @@ Description: Pardus Android Emulator.
  Delete it,
  Chose its sdk
  with google or google and playstore or without google and playstore
+
+Package: zen-browser
+Source: zen-browser
+Maintainer: Muhammet Halak <halakmuhammet145@gmail.com>
+Standards-Version: 3.9.2
+Build-Depends: debhelper (>= 9)
+Architecture: amd64
+Priority: optional
+Section: misc
+Filename: pool/main/z/zen-browser/zen-browser_1.0.1-a.14_amd64.deb
+Size: 71517132
+SHA256: b18a6af4d77ac807daa85be04b4bf1e98ada9f8925c3795f5f8d4a6b4bcb2a5a
+SHA1: da050f65ee419d139259aba14bd2296b277e6141
+MD5sum: cba8a152c71454fdf688a62b58efa481
+Description: Zen browser web browser is moder Firefox
+Version: 1.0.1-a.14
 
