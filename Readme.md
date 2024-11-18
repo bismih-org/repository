@@ -39,6 +39,9 @@ sonrasında conf içinde distributions dosyası oluşturulmalı.
 depoya bir .deb dosyası eklemek için
 `reprepro -V --basedir  repo/ includedeb  fethan 'path/holy-quran_1.6.1_all.deb'`
 
+`reprepro -V --basedir  repo/ remove  fethan 'path/holy-quran_1.6.1_all.deb'`
+
+
 gpg anahtarını herkese açık olarak yayınlamak için
 `gpg --armor --export 09140FA2E7D7F775 | tee repo/bismih-pubkey.asc`
 

@@ -83,16 +83,16 @@ Description: Multi-touch gesture recognizer
 Package: zen-browser
 Source: zen-browser
 Maintainer: Muhammet Halak <halakmuhammet145@gmail.com>
-Standards-Version: 3.9.2
+Standards-Version: 1.0.1-a.19
 Build-Depends: debhelper (>= 9)
 Architecture: amd64
 Priority: optional
 Section: misc
 Filename: pool/main/z/zen-browser/zen-browser_1.0.1-a.19_amd64.deb
-Size: 72747204
-SHA256: 6d0f88e095bcf911444b4cc15f8eab9915b93928c627bd69fc13e71482dd51f7
-SHA1: 8c5058e41e393ab5f511948a5f3d5269d11600cc
-MD5sum: 85acab693dfa8cd68a751f758d161c7f
+Size: 72747516
+SHA256: 588e3a3f76955de2a7b3898bd6b76118a586ddade5a254358cdf42996baa5683
+SHA1: b840e0437591842478bd3dced9dc9f2eb580b578
+MD5sum: 16926aa9df1973db3eac7bead6fb2993
 Description: Zen browser web browser is moder Firefox
 Version: 1.0.1-a.19
 
