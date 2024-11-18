@@ -88,11 +88,11 @@ Build-Depends: debhelper (>= 9)
 Architecture: amd64
 Priority: optional
 Section: misc
-Filename: pool/main/z/zen-browser/zen-browser_1.0.1-a.14_amd64.deb
-Size: 71517132
-SHA256: b18a6af4d77ac807daa85be04b4bf1e98ada9f8925c3795f5f8d4a6b4bcb2a5a
-SHA1: da050f65ee419d139259aba14bd2296b277e6141
-MD5sum: cba8a152c71454fdf688a62b58efa481
+Filename: pool/main/z/zen-browser/zen-browser_1.0.1-a.19_amd64.deb
+Size: 72747204
+SHA256: 6d0f88e095bcf911444b4cc15f8eab9915b93928c627bd69fc13e71482dd51f7
+SHA1: 8c5058e41e393ab5f511948a5f3d5269d11600cc
+MD5sum: 85acab693dfa8cd68a751f758d161c7f
 Description: Zen browser web browser is moder Firefox
-Version: 1.0.1-a.14
+Version: 1.0.1-a.19
 
