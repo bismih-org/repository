@@ -34,16 +34,16 @@ Description: It is Holy Quran app.
 Package: kde-bismih-config
 Source: kde-bismih-config
 Maintainer: Muhammet Halak <halakmuhammet145@gmail.com>
-Standards-Version: 1.0
+Standards-Version: 1.1
 Build-Depends: debhelper (>= 9)
 Architecture: amd64
 Priority: optional
 Section: misc
-Filename: pool/main/k/kde-bismih-config/kde-bismih-config_1.0_amd64.deb
-Size: 12779232
-SHA256: 106117ddf4ef677b8d6b72eb6aa096d7e1d7ce0187a414ab872c060e20e41f9a
-SHA1: f52ea9ea9850812a22b4957af8e0ee211e267381
-MD5sum: a8bc57968adb4bb7388e761e11ffc0ba
+Filename: pool/main/k/kde-bismih-config/kde-bismih-config_1.1_amd64.deb
+Size: 12784852
+SHA256: e4bd262fc8a039a67e3eaa0213530a2a0cd07b0a210f6ad03394f07e941da249
+SHA1: 873aa342cbdfacea21f1556d3b07e8a42789f48f
+MD5sum: 9de3e77689b4554408a08c38cdf02b0e
 Description: Bismih KDE Config
  This package contains the configuration files for the Bismih KDE desktop
  environment.
@@ -51,7 +51,7 @@ Description: Bismih KDE Config
  This package is part of the Bismih project.
  .
  Please visit
-Version: 1.0
+Version: 1.1
 
 Package: libreoffice-style-yaru
 Source: libreoffice

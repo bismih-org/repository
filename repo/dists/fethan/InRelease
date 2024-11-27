@@ -4,26 +4,26 @@ Hash: SHA256
 Origin: https://bismih-org.github.io/repository/repo
 Label: Bismih
 Codename: fethan
-Date: Wed, 27 Nov 2024 21:42:42 UTC
+Date: Wed, 27 Nov 2024 22:06:18 UTC
 Architectures: amd64
 Components: main
 Description: Bismih package repository for Pardus/Debian
 MD5Sum:
- 0bd1ba2b3433104091ca897481cad98d 5113 main/binary-amd64/Packages
- 337848b3fb424d81cda6ab5eddf07b10 2197 main/binary-amd64/Packages.gz
+ fe9cca3de39f927aa363bb65bcdf1bb3 5113 main/binary-amd64/Packages
+ cb9df5c0e4fbbdf392c88a79bc415ad5 2205 main/binary-amd64/Packages.gz
  83c73d496a3ce157ebf3968424779a89 160 main/binary-amd64/Release
 SHA1:
- 26774a151acd22dbd32f58a46ddc663c6f0eebca 5113 main/binary-amd64/Packages
- 25729b6f035c0bd66c628bceb0494a441179e13a 2197 main/binary-amd64/Packages.gz
+ 6a9f0c9e9a3eab95c40162124621d38d07b8638e 5113 main/binary-amd64/Packages
+ 27f94dbb70e550c6128310a89cc3186f42473454 2205 main/binary-amd64/Packages.gz
  a69eba0c674d0a2ca30c7353c5dc008183d8150d 160 main/binary-amd64/Release
 SHA256:
- b245535d7e7795efc4a69304069787f2940285c31a5ef1c055a401d47fafe5bc 5113 main/binary-amd64/Packages
- b34a63dcd280a9b205cf70744261431d3e3ef6149326ab303e28ed541abff3ec 2197 main/binary-amd64/Packages.gz
+ 51441b2170649708ec62652d199a5ae7b674b0350ee6ac152d8f45c9e8bb2b3b 5113 main/binary-amd64/Packages
+ 268bfc6295c93f87209cd1c7048b08c1ce5a14377f868aff96016d94574354e6 2205 main/binary-amd64/Packages.gz
  dcf206ee3d58a0916b4b733cbc086b92634f7ce075afe55370cbcc1cea23707d 160 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQR+IMqxMwhDmLkQQk6awsUtovLtugUCZ0eSUwAKCRCawsUtovLt
-ujMVAQCNe3wn/csjsTWmFMtssk1GXjl6/FuNTwXpQGxjYZFIYAD+K4hUa2tiKCfY
-NwfxDGcgdsAzFxvkUqYmVJDacHB0Zws=
-=VI0x
+iHUEARYIAB0WIQR+IMqxMwhDmLkQQk6awsUtovLtugUCZ0eX2gAKCRCawsUtovLt
+um4tAQDTl8Gnh7pDjDofGT3zrQGz13Yy5MPoqCQdzQFScUqbvwEAk737CeXdpAfC
+8y451RaoaHauUTmCpk4Gn8KzV7hM7As=
+=jKOO
 -----END PGP SIGNATURE-----
