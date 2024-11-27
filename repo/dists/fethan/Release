@@ -1,19 +1,19 @@
 Origin: https://bismih-org.github.io/repository/repo
 Label: Bismih
 Codename: fethan
-Date: Wed, 27 Nov 2024 08:54:21 UTC
+Date: Wed, 27 Nov 2024 21:42:42 UTC
 Architectures: amd64
 Components: main
 Description: Bismih package repository for Pardus/Debian
 MD5Sum:
- 7c195c0a610f68830a10d0e609fc2fd9 4544 main/binary-amd64/Packages
- 020c3edca342852a80c948b30943f39f 2031 main/binary-amd64/Packages.gz
+ 0bd1ba2b3433104091ca897481cad98d 5113 main/binary-amd64/Packages
+ 337848b3fb424d81cda6ab5eddf07b10 2197 main/binary-amd64/Packages.gz
  83c73d496a3ce157ebf3968424779a89 160 main/binary-amd64/Release
 SHA1:
- 8d2fc89318d6d1108173ad4ede4a50ef312e3e12 4544 main/binary-amd64/Packages
- 387b0de35614faf68d26140af8d5ff3d468df19d 2031 main/binary-amd64/Packages.gz
+ 26774a151acd22dbd32f58a46ddc663c6f0eebca 5113 main/binary-amd64/Packages
+ 25729b6f035c0bd66c628bceb0494a441179e13a 2197 main/binary-amd64/Packages.gz
  a69eba0c674d0a2ca30c7353c5dc008183d8150d 160 main/binary-amd64/Release
 SHA256:
- e0231f9191bccf5bdf0a85c551f34cb7fc5da681f54a594829b93dfb50afb81d 4544 main/binary-amd64/Packages
- 09086b52fb1f8c9adc5b93b0a86590e01d5f1e1c14d0c71b818c6f9759f3956d 2031 main/binary-amd64/Packages.gz
+ b245535d7e7795efc4a69304069787f2940285c31a5ef1c055a401d47fafe5bc 5113 main/binary-amd64/Packages
+ b34a63dcd280a9b205cf70744261431d3e3ef6149326ab303e28ed541abff3ec 2197 main/binary-amd64/Packages.gz
  dcf206ee3d58a0916b4b733cbc086b92634f7ce075afe55370cbcc1cea23707d 160 main/binary-amd64/Release

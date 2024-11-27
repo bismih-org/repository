@@ -1,3 +1,20 @@
+Package: bismih-theme
+Source: bismih-theme
+Maintainer: Muhammet Halak <halakmuhammet145@gmail.com>
+Standards-Version: 1.0
+Build-Depends: debhelper (>= 9)
+Architecture: amd64
+Priority: optional
+Section: misc
+Filename: pool/main/b/bismih-theme/bismih-theme_1.0_amd64.deb
+Size: 25422540
+SHA256: d2fcd1824986f03e607d59f60bf02306fabccd722c091d0f6bdcab0c1a535b09
+SHA1: 08c5eabc16d59ce4422edefd9ecace918d186bb0
+MD5sum: 8f0dbbf63c49ebc6c2ab73ffa091828d
+Description: Bismih Theme
+ Bismih Theme is a theme for Linux desktops. It is a dark theme with a flat design.
+Version: 1.0
+
 Package: holy-quran
 Version: 1.6.1
 Architecture: all
