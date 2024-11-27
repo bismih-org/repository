@@ -4,26 +4,26 @@ Hash: SHA256
 Origin: https://bismih-org.github.io/repository/repo
 Label: Bismih
 Codename: fethan
-Date: Mon, 18 Nov 2024 17:45:46 UTC
+Date: Wed, 27 Nov 2024 08:54:21 UTC
 Architectures: amd64
 Components: main
 Description: Bismih package repository for Pardus/Debian
 MD5Sum:
- b877f6cbcc2087af9abc78f8ef2f5041 3875 main/binary-amd64/Packages
- 79c37ac7346320a6988eb422e7647e13 1812 main/binary-amd64/Packages.gz
- c3e654de97f9bc295151520664eb284b 168 main/binary-amd64/Release
+ 7c195c0a610f68830a10d0e609fc2fd9 4544 main/binary-amd64/Packages
+ 020c3edca342852a80c948b30943f39f 2031 main/binary-amd64/Packages.gz
+ 83c73d496a3ce157ebf3968424779a89 160 main/binary-amd64/Release
 SHA1:
- a273f98bb2ba28424134afa81c4191bcb58792a8 3875 main/binary-amd64/Packages
- 77f07bf450c821782d13070710644feea655c010 1812 main/binary-amd64/Packages.gz
- d3fc06d64df5f2f0a3cdf73e4c6646efa812c4d5 168 main/binary-amd64/Release
+ 8d2fc89318d6d1108173ad4ede4a50ef312e3e12 4544 main/binary-amd64/Packages
+ 387b0de35614faf68d26140af8d5ff3d468df19d 2031 main/binary-amd64/Packages.gz
+ a69eba0c674d0a2ca30c7353c5dc008183d8150d 160 main/binary-amd64/Release
 SHA256:
- 7a8082107e9af7fd0b3a010ddcfcbc53213ad7ab67f6d9fa93b5f531384df62d 3875 main/binary-amd64/Packages
- f5e6e198664dd54e2bcfb76fff1bd8492f08b4598378c940ac8218e3301831eb 1812 main/binary-amd64/Packages.gz
- 3ea6bc7c878dad74865f8bef3de95a5eca36eda93b5de958aaf244b6384ca271 168 main/binary-amd64/Release
+ e0231f9191bccf5bdf0a85c551f34cb7fc5da681f54a594829b93dfb50afb81d 4544 main/binary-amd64/Packages
+ 09086b52fb1f8c9adc5b93b0a86590e01d5f1e1c14d0c71b818c6f9759f3956d 2031 main/binary-amd64/Packages.gz
+ dcf206ee3d58a0916b4b733cbc086b92634f7ce075afe55370cbcc1cea23707d 160 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQTrfCmZsaenHjS5SeYJFA+i59f3dQUCZzt9SgAKCRAJFA+i59f3
-ddQrAP4jjwc4RMz2+YOMZVNjZ63x1D90bz9lsqh885KbRrXbZwD/VAGXf82cvqFq
-93tPgkvOTcKE7QX5Hcziz62PoMqqxwU=
-=JQWK
+iHUEARYIAB0WIQR+IMqxMwhDmLkQQk6awsUtovLtugUCZ0bePQAKCRCawsUtovLt
+uhIzAP9FnerkEZisFXjYBhVnZH7W40nfnBeozPVbn554Hvv4eQEAsL1WbiEigl7N
+DPtxjJsG8r+kM2Fl/kloPptItFg84AE=
+=G1IE
 -----END PGP SIGNATURE-----

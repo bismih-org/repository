@@ -14,6 +14,28 @@ SHA1: 2424d0bf82ad76dd751e287d5ae33917a4389c96
 MD5sum: 060d5fbfcb2936b5e0bddb0d3a5d07f6
 Description: It is Holy Quran app.
 
+Package: kde-bismih-config
+Source: kde-bismih-config
+Maintainer: Muhammet Halak <halakmuhammet145@gmail.com>
+Standards-Version: 1.0
+Build-Depends: debhelper (>= 9)
+Architecture: amd64
+Priority: optional
+Section: misc
+Filename: pool/main/k/kde-bismih-config/kde-bismih-config_1.0_amd64.deb
+Size: 12779232
+SHA256: 106117ddf4ef677b8d6b72eb6aa096d7e1d7ce0187a414ab872c060e20e41f9a
+SHA1: f52ea9ea9850812a22b4957af8e0ee211e267381
+MD5sum: a8bc57968adb4bb7388e761e11ffc0ba
+Description: Bismih KDE Config
+ This package contains the configuration files for the Bismih KDE desktop
+ environment.
+ .
+ This package is part of the Bismih project.
+ .
+ Please visit
+Version: 1.0
+
 Package: libreoffice-style-yaru
 Source: libreoffice
 Version: 4:24.8.2-0ubuntu1
@@ -83,16 +105,16 @@ Description: Multi-touch gesture recognizer
 Package: zen-browser
 Source: zen-browser
 Maintainer: Muhammet Halak <halakmuhammet145@gmail.com>
-Standards-Version: 1.0.1-a.19
+Standards-Version: 1.0.1-a.19-b
 Build-Depends: debhelper (>= 9)
 Architecture: amd64
 Priority: optional
 Section: misc
-Filename: pool/main/z/zen-browser/zen-browser_1.0.1-a.19_amd64.deb
-Size: 72747516
-SHA256: 588e3a3f76955de2a7b3898bd6b76118a586ddade5a254358cdf42996baa5683
-SHA1: b840e0437591842478bd3dced9dc9f2eb580b578
-MD5sum: 16926aa9df1973db3eac7bead6fb2993
+Filename: pool/main/z/zen-browser/zen-browser_1.0.1-a.19-b_amd64.deb
+Size: 72739880
+SHA256: b6a4ff5a1724cbaf5bd6cabe3062d48ba58a9dd6a8dff391247e96cd445fdbf7
+SHA1: 36048504f121e212609d65b0bfa49ee76203d013
+MD5sum: d1e3aec2d70808070580e27649198baa
 Description: Zen browser web browser is moder Firefox
-Version: 1.0.1-a.19
+Version: 1.0.1-a.19-b
 
