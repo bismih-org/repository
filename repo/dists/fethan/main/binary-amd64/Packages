@@ -1,3 +1,26 @@
+Package: kde-bismih-config
+Source: kde-bismih-config
+Maintainer: Muhammet Halak <halakmuhammet145@gmail.com>
+Installed-Size: 19423259
+Standards-Version: 1.3
+Build-Depends: debhelper (>= 9)
+Architecture: amd64
+Priority: optional
+Section: misc
+Filename: pool/main/k/kde-bismih-config/kde-bismih-config_1.3_amd64.deb
+Size: 12781408
+SHA256: bae1a6cd6725161884463d12aac38d055803669efffc1ab1c8a073024d3890a5
+SHA1: 1e00b632b4a713e121e2080292c6d8c9e37e9788
+MD5sum: 379547fea436bccfc6951a98787f4fca
+Description: Bismih KDE Config
+ This package contains the configuration files for the Bismih KDE desktop
+ environment.
+ .
+ This package is part of the Bismih project.
+ .
+ Please visit
+Version: 1.3
+
 Package: plasma-workspace-data
 Source: plasma-workspace
 Version: 4:5.27.5-2+deb12u2-bismih
