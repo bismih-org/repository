@@ -1,3 +1,28 @@
+Package: base-files
+Version: 12.4+z-bismih24.2.1
+Architecture: all
+Essential: yes
+Maintainer: Muhammet Halak <halakmuhammet145@gamil.com>
+Installed-Size: 345
+Pre-Depends: awk
+Recommends: fzf
+Breaks: debian-security-support (<< 2019.04.25), initscripts (<< 2.88dsf-13.3), sendfile (<< 2.1b.20080616-5.2~)
+Replaces: base, dpkg (<= 1.15.0), miscutils
+Provides: base
+Multi-Arch: foreign
+Priority: required
+Section: admin
+Filename: pool/main/b/base-files/base-files_12.4+z-bismih24.2.1_all.deb
+Size: 72568
+SHA256: 7ed9170b7f7ed41d7673021f6d7025670656b1a990a83c5af1704aca6e064f31
+SHA1: 77faec2c3a94cfebb231392068a9f29eb8787a75
+MD5sum: eacd68bd7dd8aa533c758a4e24474f89
+Description: Debian base system miscellaneous files
+ This package contains the basic filesystem hierarchy of a Debian system, and
+ several important miscellaneous files, such as /etc/debian_version,
+ /etc/host.conf, /etc/issue, /etc/motd, /etc/profile, and others,
+ and the text of several common licenses in use on Debian systems.
+
 Package: bismih-theme
 Source: bismih-theme
 Maintainer: Muhammet Halak <halakmuhammet145@gmail.com>

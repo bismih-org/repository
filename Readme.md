@@ -17,12 +17,21 @@ public anahtar
 
 `gpg --armor --export user-id > pubkey.asc`
 
+cp pubkey.asc repo/bismih-pubkey.asc
+
 private anahtar
 
 `gpg --export-secret-keys --armor user-id > privkey.asc`
 
 anahtarımızı key serverına gönderiyoruz (tercihe bağlı)
 `gpg --send-key key-id`
+
+gpg anahtarını silmek için
+Önce gizli(private) anahtar silinmeli
+`gpg --delete-secret-keys user-id`
+
+sonrasında anahtarın tamam silinmeli
+`gpg --delete-key user-id`
 
 ---
 
@@ -41,6 +50,8 @@ depoya bir .deb dosyası eklemek için
 
 `reprepro -V --basedir  repo/ remove  fethan 'path/holy-quran_1.6.1_all.deb'`
 
+gerektiğinde repodaki paketleri yeniden indexlemek için
+`find pool -name "*.deb" -exec reprepro includedeb fethan {} \;`
 
 gpg anahtarını herkese açık olarak yayınlamak için
 `gpg --armor --export 09140FA2E7D7F775 | tee repo/bismih-pubkey.asc`

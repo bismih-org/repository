@@ -1,5 +1,6 @@
+Archive: fethan
 Component: main
-Origin: https://bismih-org.github.io/repository/repo
-Label: Bismih
+Origin: Bismih
+Label: Fethan
 Architecture: amd64
 Description: Bismih package repository for Pardus/Debian
