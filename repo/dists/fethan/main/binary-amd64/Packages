@@ -60,16 +60,16 @@ Package: kde-bismih-config
 Source: kde-bismih-config
 Maintainer: Muhammet Halak <halakmuhammet145@gmail.com>
 Installed-Size: 19423259
-Standards-Version: 1.3
+Standards-Version: 1.3.1
 Build-Depends: debhelper (>= 9)
 Architecture: amd64
 Priority: optional
 Section: misc
-Filename: pool/main/k/kde-bismih-config/kde-bismih-config_1.3_amd64.deb
-Size: 12781408
-SHA256: bae1a6cd6725161884463d12aac38d055803669efffc1ab1c8a073024d3890a5
-SHA1: 1e00b632b4a713e121e2080292c6d8c9e37e9788
-MD5sum: 379547fea436bccfc6951a98787f4fca
+Filename: pool/main/k/kde-bismih-config/kde-bismih-config_1.3.1_amd64.deb
+Size: 12779744
+SHA256: 232de71adc6ecd6fed4068f4a74d889993bd39c52280b62c086c8fb8ea257d67
+SHA1: febc9b3dd6d877af5e291adc27fe938364f5dc7b
+MD5sum: 10995db6eba4ff71d39f6ed6b044a150
 Description: Bismih KDE Config
  This package contains the configuration files for the Bismih KDE desktop
  environment.
@@ -77,7 +77,7 @@ Description: Bismih KDE Config
  This package is part of the Bismih project.
  .
  Please visit
-Version: 1.3
+Version: 1.3.1
 
 Package: libreoffice-style-yaru
 Source: libreoffice
