@@ -1,28 +1,3 @@
-Package: base-files
-Version: 12.4+z-bismih24.2.1
-Architecture: all
-Essential: yes
-Maintainer: Muhammet Halak <halakmuhammet145@gamil.com>
-Installed-Size: 345
-Pre-Depends: awk
-Recommends: fzf
-Breaks: debian-security-support (<< 2019.04.25), initscripts (<< 2.88dsf-13.3), sendfile (<< 2.1b.20080616-5.2~)
-Replaces: base, dpkg (<= 1.15.0), miscutils
-Provides: base
-Multi-Arch: foreign
-Priority: required
-Section: admin
-Filename: pool/main/b/base-files/base-files_12.4+z-bismih24.2.1_all.deb
-Size: 72568
-SHA256: 7ed9170b7f7ed41d7673021f6d7025670656b1a990a83c5af1704aca6e064f31
-SHA1: 77faec2c3a94cfebb231392068a9f29eb8787a75
-MD5sum: eacd68bd7dd8aa533c758a4e24474f89
-Description: Debian base system miscellaneous files
- This package contains the basic filesystem hierarchy of a Debian system, and
- several important miscellaneous files, such as /etc/debian_version,
- /etc/host.conf, /etc/issue, /etc/motd, /etc/profile, and others,
- and the text of several common licenses in use on Debian systems.
-
 Package: bismih-theme
 Source: bismih-theme
 Maintainer: Muhammet Halak <halakmuhammet145@gmail.com>
@@ -125,29 +100,6 @@ Description: Pardus Android Emulator.
  Chose its sdk
  with google or google and playstore or without google and playstore
 
-Package: plasma-workspace-data
-Source: plasma-workspace
-Version: 4:5.27.5-2+deb12u2-bismih
-Architecture: all
-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
-Installed-Size: 38541
-Breaks: breeze (<< 4:5.23.90~), plasma-desktop (<< 4:5.24.0), plasma-desktop-data (<< 4:5.27.0)
-Replaces: breeze (<< 4:5.23.90~), plasma-desktop (<< 4:5.24.0), plasma-desktop-data (<< 4:5.27.0)
-Homepage: https://invent.kde.org/plasma/plasma-workspace
-Priority: optional
-Section: kde
-Filename: pool/main/p/plasma-workspace/plasma-workspace-data_5.27.5-2+deb12u2-bismih_all.deb
-Size: 16249056
-SHA256: 08275b811dae417eb8d52db2c19066105ac3fb440871cf730a38d50da6c6907b
-SHA1: f56accfbb58f79670c78c7c3d732824071a85057
-MD5sum: 5b79654a44a8a37612fc49263a8ac0d2
-Description: Plasma Workspace for KF5 - data files
- Plasma Workspace for KF5. Workspaces provide
- support for KDE Plasma Widgets, integrated search,
- hardware management and a high degree of customizability.
- .
- This contains the data files for the Plasma workspace.
-
 Package: touchegg
 Version: 2.0.17
 Architecture: amd64
@@ -167,20 +119,4 @@ Description: Multi-touch gesture recognizer
  make in your touchpad into visible actions in your desktop.
  For example, you can swipe up with 3 fingers to maximize a window or swipe left
  with 4 finger to switch to the next desktop.
-
-Package: zen-browser
-Source: zen-browser
-Maintainer: Muhammet Halak <halakmuhammet145@gmail.com>
-Standards-Version: 1.0.1-a.22-b
-Build-Depends: debhelper (>= 9)
-Architecture: amd64
-Priority: optional
-Section: misc
-Filename: pool/main/z/zen-browser/zen-browser_1.0.1-a.22-b_amd64.deb
-Size: 72754688
-SHA256: a08680e56f98f05fc718ede2a15d5bfaaf3c2f657b314c2d14f449f3034e742f
-SHA1: 03941d367bc715042fd080ad413b945b254bbdfe
-MD5sum: 405c1944943ef4dc4145705162b489c7
-Description: Zen browser web browser is moder Firefox
-Version: 1.0.1-a.22-b
 

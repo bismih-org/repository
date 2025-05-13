@@ -5,5 +5,5 @@ Codename: fethan
 Architectures: amd64 
 Components: main
 Description: Bismih package repository for Pardus/Debian
-SignWith: A0D026FB67C9E939826FA6B3ADB1D824AF694A96
+SignWith: 85B449F14686B9C0EA9BDB7CDA183BE22A3E7726
 Pull: fethan
