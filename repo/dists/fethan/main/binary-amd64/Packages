@@ -2,16 +2,16 @@ Package: kde-bismih-config
 Source: kde-bismih-config
 Maintainer: Muhammet Halak <halakmuhammet145@gmail.com>
 Installed-Size: 19423259
-Standards-Version: 1.3.3
+Standards-Version: 1.3.4
 Build-Depends: debhelper (>= 9)
 Architecture: amd64
 Priority: optional
 Section: misc
-Filename: pool/main/k/kde-bismih-config/kde-bismih-config_1.3.3_amd64.deb
-Size: 13001564
-SHA256: f9240473ffb1e9225a9a38fdeffe3fcde57068a011805b2fd38cb9ce1ef0162e
-SHA1: 2805b7d0758d9bd94e89d582fcdefc2ee8655358
-MD5sum: ca2563d4342df6daf890ffa9aeb048ce
+Filename: pool/main/k/kde-bismih-config/kde-bismih-config_1.3.4_amd64.deb
+Size: 12999884
+SHA256: 7d68f6f5bdfe76151fb935e6cd712cd1d770c60214f6e4addf2c918cc34b7274
+SHA1: 8619b3da54cdfd2b034830ac267701895b3cfd05
+MD5sum: 5fae03a5775e992781cb8241a3dc0d82
 Description: Bismih KDE Config
  This package contains the configuration files for the Bismih KDE desktop
  environment.
@@ -19,5 +19,5 @@ Description: Bismih KDE Config
  This package is part of the Bismih project.
  .
  Please visit
-Version: 1.3.3
+Version: 1.3.4
 
