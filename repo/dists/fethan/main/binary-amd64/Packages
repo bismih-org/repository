@@ -1,3 +1,36 @@
+Package: bismih-theme
+Source: bismih-theme
+Maintainer: Muhammet Halak <halakmuhammet145@gmail.com>
+Standards-Version: 1.1
+Build-Depends: debhelper (>= 9)
+Architecture: amd64
+Priority: optional
+Section: misc
+Filename: pool/main/b/bismih-theme/bismih-theme_1.1_amd64.deb
+Size: 25422552
+SHA256: 336c45ee1dd62ae44a6647a588d0d44dcc29c21722d030207a82769ba0fd41f8
+SHA1: eb0f56322d32f652005bc6605f20560837f39dad
+MD5sum: 650c809db9f64aedf44216fad5fa29e0
+Description: Bismih Theme
+ Bismih Theme is a theme for Linux desktops. It is a dark theme with a flat design.
+Version: 1.1
+
+Package: holy-quran
+Version: 1.6.1
+Architecture: all
+Maintainer: Muhammet Halak <halakmuhammet145@gmail.com>
+Installed-Size: 2201
+Depends: python3-gi, python3-pygame, python3:any
+Homepage: https://github.com/halak0013/Kuran-I_Kerim_app
+Priority: optional
+Section: x11
+Filename: pool/main/h/holy-quran/holy-quran_1.6.1_all.deb
+Size: 403640
+SHA256: 9fafb620d296acfae6ddd85b19d4ddbed0f85a89c2c149a88e05b041f9160d5c
+SHA1: 2424d0bf82ad76dd751e287d5ae33917a4389c96
+MD5sum: 060d5fbfcb2936b5e0bddb0d3a5d07f6
+Description: It is Holy Quran app.
+
 Package: kde-bismih-config
 Source: kde-bismih-config
 Maintainer: Muhammet Halak <halakmuhammet145@gmail.com>
@@ -20,4 +53,70 @@ Description: Bismih KDE Config
  .
  Please visit
 Version: 1.3.4
+
+Package: libreoffice-style-yaru
+Source: libreoffice
+Version: 4:24.8.2-0ubuntu1
+Architecture: all
+Bugs: mailto:libreoffice@lists.launchpad.net
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 49132
+Recommends: libreoffice-common
+Enhances: libreoffice-core
+Provides: libreoffice-style
+Homepage: http://www.libreoffice.org
+Priority: optional
+Section: editors
+Filename: pool/main/libr/libreoffice/libreoffice-style-yaru_24.8.2-0ubuntu1_all.deb
+Size: 10909150
+SHA256: b02d7417199d284ade453fab42952d0fbd944e2182d26a24a4bfb88b204c656b
+SHA1: 9761a51b0b3d45de8b6ea40fc19943b0bb16419f
+MD5sum: d51c334ae0b7261fb9bcf7aa509ed023
+Description: office productivity suite -- Yaru symbol style
+ LibreOffice is a full-featured office productivity suite that provides
+ a near drop-in replacement for Microsoft(R) Office.
+ .
+ This package contains the "yaru" symbol style.
+Original-Maintainer: Debian LibreOffice Maintainers <debian-openoffice@lists.debian.org>
+
+Package: pardus-android-emulator
+Version: 1.3
+Architecture: all
+Maintainer: Muhammet Halak <halakmuhammet145@gmail.com>
+Installed-Size: 415
+Depends: python3-aiohttp, python3-bs4, python3-gi, python3:any, gir1.2-ayatanaappindicator3-0.1, gir1.2-glib-2.0, gir1.2-gtk-3.0
+Homepage: https://github.com/halak0013/pardus_android_emulator
+Priority: optional
+Section: x11
+Filename: pool/main/p/pardus-android-emulator/pardus-android-emulator_1.3_all.deb
+Size: 144388
+SHA256: 136e7d49fb0e8e0ffb0d91d6f0f846bdf573c360b2a4b27e6cc5c1916004bf5a
+SHA1: b9bcc33d41e98947c84405fc78ec0a8242929108
+MD5sum: 260893286d10a8b7033016f46cd538e9
+Description: Pardus Android Emulator.
+ Generate an Android Emulator
+ Edit it,
+ Delete it,
+ Chose its sdk
+ with google or google and playstore or without google and playstore
+
+Package: touchegg
+Version: 2.0.17
+Architecture: amd64
+Maintainer: José Expósito <jose.exposito89@gmail.com>
+Installed-Size: 419
+Depends: libc6 (>= 2.34), libcairo2 (>= 1.2.4), libgcc-s1 (>= 3.0), libglib2.0-0 (>= 2.68.0), libgtk-3-0 (>= 3.19.12), libinput10 (>= 0.21.0), libpugixml1v5 (>= 1.4), libstdc++6 (>= 11), libudev1 (>= 183), libx11-6, libxi6 (>= 2:1.2.99.4), libxrandr2 (>= 2:1.2.99.2), libxtst6
+Homepage: https://github.com/JoseExposito/touchegg
+Priority: optional
+Section: misc
+Filename: pool/main/t/touchegg/touchegg_2.0.17_amd64.deb
+Size: 129164
+SHA256: ef1873155eafefedbbc9a6911ff34c57511c49b43cbb37f5c6f8b795a04a0ecc
+SHA1: a5784f9d064adcb06b1cfce31dad06cfa2de1862
+MD5sum: 88b183b22bc39e184f77c5e2b5af4351
+Description: Multi-touch gesture recognizer
+ Touchégg is an app that runs in the background and transform the gestures you
+ make in your touchpad into visible actions in your desktop.
+ For example, you can swipe up with 3 fingers to maximize a window or swipe left
+ with 4 finger to switch to the next desktop.
 
