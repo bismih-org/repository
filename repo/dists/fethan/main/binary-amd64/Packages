@@ -132,10 +132,10 @@ Homepage: https://github.com/bismih-org/QuickShortcutPanel
 Priority: optional
 Section: x11
 Filename: pool/main/q/quick-shortcut-panel/quick-shortcut-panel_1.3_all.deb
-Size: 368788
-SHA256: 41d42578bab3922a784acf9752665d95440f7dbc59d93abbd9b6b3336d7469e8
-SHA1: 4b01bf3b1745a8fc21e61de9799d11634866a6a4
-MD5sum: b4f0d8a1f14d9c671369ef00eed8636e
+Size: 368724
+SHA256: bcf728c6991fd68b89cd58f1623b6f58e08399adca091b1724146b258a0cde77
+SHA1: f75124a2f60929245895f117b6275c61f49382d6
+MD5sum: 14ae9fafe21de2cc4e3ebe945921b1d7
 Description: Quick Shortcut Panel
  Quick Shortcut Panel is a simple application that provides a panel for quick access to
  your favorite applications and shortcuts. It allows you to easily launch applications,
