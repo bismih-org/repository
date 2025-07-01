@@ -15,6 +15,28 @@ Description: Bismih Theme
  Bismih Theme is a theme for Linux desktops. It is a dark theme with a flat design.
 Version: 1.1
 
+Package: bismih-welcome
+Version: 1.3
+Architecture: all
+Maintainer: Muhammet Halak <halakmuhammet145@gmail.com>
+Installed-Size: 44784
+Depends: python3-coloredlogs, python3-pyqt6, python3-xdg, python3-yaml, python3:any, gir1.2-ayatanaappindicator3-0.1, gir1.2-glib-2.0, gir1.2-gtk-3.0, python3-bs4
+Homepage: https://github.com/bismih-org/bismih-welcome
+Priority: optional
+Section: x11
+Filename: pool/main/b/bismih-welcome/bismih-welcome_1.3_all.deb
+Size: 44998888
+SHA256: 9dfa5fdf17bf1048ef8f4be65d24bb77d0df0b168943f535190cdae2559703a7
+SHA1: 4a05e621c86982cb8fac2169fef67871be4b67cb
+MD5sum: 543c50af76a618d72c4fb8bd9a7155b0
+Description: Quick Shortcut Panel
+ Quick Shortcut Panel is a simple application that provides a panel for quick access to
+ your favorite applications and shortcuts. It allows you to easily launch applications,
+ open files, and perform various actions with just a few clicks.
+ .
+ This package is designed to be lightweight and user-friendly, making it suitable for
+ users who want a convenient way to manage their shortcuts and applications.
+
 Package: holy-quran
 Version: 1.6.1
 Architecture: all
@@ -99,6 +121,28 @@ Description: Pardus Android Emulator.
  Delete it,
  Chose its sdk
  with google or google and playstore or without google and playstore
+
+Package: quick-shortcut-panel
+Version: 1.3
+Architecture: all
+Maintainer: Muhammet Halak <halakmuhammet145@gmail.com>
+Installed-Size: 1158
+Depends: python3-coloredlogs, python3-pyqt6, python3-xdg, python3-yaml, gir1.2-ayatanaappindicator3-0.1, gir1.2-glib-2.0, gir1.2-gtk-3.0, python3-bs4, python3-aiohttp
+Homepage: https://github.com/bismih-org/QuickShortcutPanel
+Priority: optional
+Section: x11
+Filename: pool/main/q/quick-shortcut-panel/quick-shortcut-panel_1.3_all.deb
+Size: 368788
+SHA256: 41d42578bab3922a784acf9752665d95440f7dbc59d93abbd9b6b3336d7469e8
+SHA1: 4b01bf3b1745a8fc21e61de9799d11634866a6a4
+MD5sum: b4f0d8a1f14d9c671369ef00eed8636e
+Description: Quick Shortcut Panel
+ Quick Shortcut Panel is a simple application that provides a panel for quick access to
+ your favorite applications and shortcuts. It allows you to easily launch applications,
+ open files, and perform various actions with just a few clicks.
+ .
+ This package is designed to be lightweight and user-friendly, making it suitable for
+ users who want a convenient way to manage their shortcuts and applications.
 
 Package: touchegg
 Version: 2.0.17
