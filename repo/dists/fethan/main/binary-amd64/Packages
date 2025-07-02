@@ -13,10 +13,10 @@ Multi-Arch: foreign
 Priority: required
 Section: admin
 Filename: pool/main/b/base-files/base-files_12.4+z-bismih25.1_all.deb
-Size: 88332
-SHA256: d5cc41e29ccc03491e208cadf8c9b1410620bc8c7b7ad3d6ba757814e1b3a8b8
-SHA1: 21baeaf53a7958716820b0bb21b7e496e59e41d6
-MD5sum: a111c9a49e95b39b986aa54977bf385a
+Size: 88488
+SHA256: e2630e467f0fbbe388b0ee566c6fcd42ff7cd461a5defd43eb4976e95b74e0df
+SHA1: a64fdc21f0a1f82730b3d88687186c0e1f62aa71
+MD5sum: f6430d237fbac4ae534fa9b07301acb2
 Description: Debian base system miscellaneous files
  This package contains the basic filesystem hierarchy of a Debian system, and
  several important miscellaneous files, such as /etc/debian_version,
