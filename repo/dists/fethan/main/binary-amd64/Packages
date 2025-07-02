@@ -1,3 +1,43 @@
+Package: base-files
+Version: 12.4+z-bismih25.1
+Architecture: all
+Essential: yes
+Maintainer: Muhammet Halak <halakmuhammet145@gamil.com>
+Installed-Size: 345
+Pre-Depends: awk
+Recommends: fzf
+Breaks: debian-security-support (<< 2019.04.25), initscripts (<< 2.88dsf-13.3), sendfile (<< 2.1b.20080616-5.2~)
+Replaces: base, dpkg (<= 1.15.0), miscutils
+Provides: base
+Multi-Arch: foreign
+Priority: required
+Section: admin
+Filename: pool/main/b/base-files/base-files_12.4+z-bismih25.1_all.deb
+Size: 88332
+SHA256: d5cc41e29ccc03491e208cadf8c9b1410620bc8c7b7ad3d6ba757814e1b3a8b8
+SHA1: 21baeaf53a7958716820b0bb21b7e496e59e41d6
+MD5sum: a111c9a49e95b39b986aa54977bf385a
+Description: Debian base system miscellaneous files
+ This package contains the basic filesystem hierarchy of a Debian system, and
+ several important miscellaneous files, such as /etc/debian_version,
+ /etc/host.conf, /etc/issue, /etc/motd, /etc/profile, and others,
+ and the text of several common licenses in use on Debian systems.
+
+Package: bismih-gun-batimi-grub-theme
+Version: 0.1.0
+Architecture: all
+Maintainer: Muhammet Halak <halakmuhammet145@gmail.com>
+Installed-Size: 551
+Homepage: https://github.com/bismih-org
+Priority: optional
+Section: utils
+Filename: pool/main/b/bismih-gun-batimi-grub-theme/bismih-gun-batimi-grub-theme_0.1.0_all.deb
+Size: 84652
+SHA256: 4d1e3a2a7b9aa1af022037972865f44334015f25a39aa9c14abafd28d1b6bd2a
+SHA1: c4b5e8f5142fac9c33ecd7f554f1c4a05a593dfa
+MD5sum: a9350f42517324225dc538d767830359
+Description: bismih-gun-batimi-theme
+
 Package: bismih-theme
 Source: bismih-theme
 Maintainer: Muhammet Halak <halakmuhammet145@gmail.com>
