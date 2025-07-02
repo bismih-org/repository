@@ -56,7 +56,7 @@ Description: Bismih Theme
 Version: 1.1
 
 Package: bismih-welcome
-Version: 1.3
+Version: 1.0.1
 Architecture: all
 Maintainer: Muhammet Halak <halakmuhammet145@gmail.com>
 Installed-Size: 44784
@@ -64,11 +64,11 @@ Depends: python3-coloredlogs, python3-pyqt6, python3-xdg, python3-yaml, python3:
 Homepage: https://github.com/bismih-org/bismih-welcome
 Priority: optional
 Section: x11
-Filename: pool/main/b/bismih-welcome/bismih-welcome_1.3_all.deb
-Size: 44998888
-SHA256: 9dfa5fdf17bf1048ef8f4be65d24bb77d0df0b168943f535190cdae2559703a7
-SHA1: 4a05e621c86982cb8fac2169fef67871be4b67cb
-MD5sum: 543c50af76a618d72c4fb8bd9a7155b0
+Filename: pool/main/b/bismih-welcome/bismih-welcome_1.0.1_all.deb
+Size: 44999256
+SHA256: b423af01f7d9395cdb2a7b3362a6db51dfd95f7921e867a476751bf19bf8ab01
+SHA1: 7d36fc9587ebf5bf69cc343a9181f994059937be
+MD5sum: 4f78b9b13bb452f17ed6fbfceb867a98
 Description: Quick Shortcut Panel
  Quick Shortcut Panel is a simple application that provides a panel for quick access to
  your favorite applications and shortcuts. It allows you to easily launch applications,
