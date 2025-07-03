@@ -141,6 +141,27 @@ Description: office productivity suite -- Yaru symbol style
  This package contains the "yaru" symbol style.
 Original-Maintainer: Debian LibreOffice Maintainers <debian-openoffice@lists.debian.org>
 
+Package: neofetch
+Version: 7.1.0-4+z-bismih
+Architecture: all
+Maintainer: Nobuhiro Iwamatsu <iwamatsu@debian.org>
+Installed-Size: 352
+Recommends: chafa, caca-utils, imagemagick, jp2a, libsixel-bin, w3m-img, pciutils
+Multi-Arch: foreign
+Homepage: https://github.com/dylanaraps/neofetch
+Priority: optional
+Section: utils
+Filename: pool/main/n/neofetch/neofetch_7.1.0-4+z-bismih_all.deb
+Size: 81940
+SHA256: db6eccf5056ee8cc724f32815563a2f53dd2a37aa4dcdfdbbcf590f3958c6bce
+SHA1: 5a42ac208542746be43717c6ef3e3bf9ddd700e5
+MD5sum: 66981b4f418df7f730a02ff2e81c3e25
+Description: Shows Linux System Information with Distribution Logo
+ Neofetch is a cross-platform and easy-to-use system information
+ command line script that collects your Linux system information
+ and display it on the terminal next to an image, it could be your
+ distributions logo or any ascii art of your choice.
+
 Package: pardus-android-emulator
 Version: 1.3
 Architecture: all
