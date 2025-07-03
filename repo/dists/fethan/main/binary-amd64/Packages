@@ -152,10 +152,10 @@ Homepage: https://github.com/dylanaraps/neofetch
 Priority: optional
 Section: utils
 Filename: pool/main/n/neofetch/neofetch_7.1.0-4+z-bismih_all.deb
-Size: 81940
-SHA256: db6eccf5056ee8cc724f32815563a2f53dd2a37aa4dcdfdbbcf590f3958c6bce
-SHA1: 5a42ac208542746be43717c6ef3e3bf9ddd700e5
-MD5sum: 66981b4f418df7f730a02ff2e81c3e25
+Size: 81964
+SHA256: 8f9ca4e18a576a7fa7511e533bbb879bbd6eb4e8cede437380e62b4a4344021f
+SHA1: 0225aef13d68d3c2420387ec2bcdb7a1a9545a96
+MD5sum: 0f748c4be316e45d6b71d7982a0bcff2
 Description: Shows Linux System Information with Distribution Logo
  Neofetch is a cross-platform and easy-to-use system information
  command line script that collects your Linux system information
