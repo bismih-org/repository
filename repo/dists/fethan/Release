@@ -2,19 +2,19 @@ Origin: Bismih
 Label: Fethan
 Suite: fethan
 Codename: fethan
-Date: Wed, 23 Jul 2025 16:10:01 UTC
+Date: Thu, 31 Jul 2025 12:25:50 UTC
 Architectures: amd64
 Components: main
 Description: Bismih package repository for Pardus/Debian
 MD5Sum:
- 88fefc156c7b6d47df58bb275d1d692c 9157 main/binary-amd64/Packages
- 0c1461012e400db61f3f63fa30fe1eee 3564 main/binary-amd64/Packages.gz
+ e52daea803ca7635e2cc91f2220c0a01 9950 main/binary-amd64/Packages
+ 4a55f311c6f641baa78f6f8120b57bcc 3835 main/binary-amd64/Packages.gz
  523938643065fc9005aed61aac358775 138 main/binary-amd64/Release
 SHA1:
- 82d26492eada4f1104369536ef3ec3bcbec6e2cd 9157 main/binary-amd64/Packages
- 6e103e2754e02577a3c1f872e1ef4c59e01a5924 3564 main/binary-amd64/Packages.gz
+ b832a07ae5142d27ea83739348448762a80a7cbf 9950 main/binary-amd64/Packages
+ daf24285b8d9ea53ba68b64b4a3491457cf230e2 3835 main/binary-amd64/Packages.gz
  b860113b5917676cf32da34a43349fe57abd637e 138 main/binary-amd64/Release
 SHA256:
- 3f69dee375ea49a5837958bf7ea43551bb1ea0fd97ca1ec3e197424c64ee2bb5 9157 main/binary-amd64/Packages
- d6360042c4cd52cd7304dfd4e931eb9fdadacdf8d35270d15443bf656795a4f7 3564 main/binary-amd64/Packages.gz
+ ab65371c0191dbdcc87ad095907570fe746cfc379c925ada4548767461172e87 9950 main/binary-amd64/Packages
+ 3778e816e2dc96011e4a42d0e65eb417efcd6b24ec356655c09bb5857e37c634 3835 main/binary-amd64/Packages.gz
  e04630e6e5828d82a44a57802570f32e72bc025d2f197d2ffd13adbd51570124 138 main/binary-amd64/Release

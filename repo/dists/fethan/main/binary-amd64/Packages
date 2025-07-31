@@ -93,6 +93,23 @@ SHA1: 2424d0bf82ad76dd751e287d5ae33917a4389c96
 MD5sum: 060d5fbfcb2936b5e0bddb0d3a5d07f6
 Description: It is Holy Quran app.
 
+Package: katip
+Version: 1.3
+Architecture: all
+Maintainer: Muhammet Halak <halakmuhammet145@gmail.com>
+Installed-Size: 3986
+Depends: python3-pyqt6, python3-requests, python3:any, gir1.2-ayatanaappindicator3-0.1, gir1.2-glib-2.0, gir1.2-gtk-3.0, xsel, xdotool, python3-bs4, python3-aiohttp, python3-coloredlogs, python3-xdg
+Homepage: https://github.com/bismih-org/katip
+Priority: optional
+Section: x11
+Filename: pool/main/k/katip/katip_1.3_all.deb
+Size: 1315224
+SHA256: 3ebee8b9bdc4d73b7ac20afe46755dd72afeb6279f600586141a8445971311db
+SHA1: 90c6bdf20aa75b3b25f3c10b3e20716d4e287f09
+MD5sum: 7e41bd4d19cb6952e06584a1b0955c59
+Description: Katip - YZ Sohbet Botu
+ Katip, kullanıcıların doğal dilde sorular sormasına ve anlık yanıtlar almasına olanak tanıyan bir yapay zeka sohbet botudur.
+
 Package: kde-bismih-config
 Source: kde-bismih-config
 Maintainer: Muhammet Halak <halakmuhammet145@gmail.com>
